@@ -1,0 +1,15 @@
+{
+    "information": "Cost Insights is a module built on the Cisco Observability Platform (COP) that enriches Cisco Cloud Observability. The Cost Insights module leverages the existing customer metrics of the FSO platform, analyzes the workloads running in cloud and cloud-native infrastructures, and generates detailed cost data for all infrastructure workloads and services. The module then ingests the cost information as a new metric displayed in AppDynamics Cloud in the entity-centric pages (ECPs) such as APM, Kubernetes®, and Hosts.",
+    "version": "1.0.0",
+    "developer": "Cisco",
+    "support": "support@example.com",
+    "supportLink": "https://example.com/support",
+    "documentationLink": "https://example.com/docs",
+    "supportSiteLink": "https://example.com/support",
+    "benefits": [
+      "Cost Insights can provide cost details on the most granular level of your infrastructure, such as containers and pods, and those cost details can be rolled up to all types of workloads, namespaces, and clusters.",
+      "Cost Insights integrates with your FSO tenant and tracks key usage and cost metrics.",
+      "Each persona will be able to see the total cost of their spending and the breakdown into efficiency (utilized cost vs. idle cost) of the resources. As a result, it enables them to make informed decisions to reduce costs or make better investments."
+    ]
+  }
+  
